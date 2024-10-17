@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ändring i feature mer alla" + Guid.NewGuid);
+            Console.WriteLine("Ändring i feature mer allassssssss" + Guid.NewGuid);
             Console.WriteLine("Hej Git");
         }
     }

@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Ändring i master" + DateTime.Now);
             Console.WriteLine("Hej Git");
         }
     }
